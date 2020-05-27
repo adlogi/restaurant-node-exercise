@@ -21,7 +21,7 @@ find-open-restaurants -c rest_hours.csv -d Mon -t 09:00
 
 ```shell
 find-open-restaurants --help
-Usage: find-open-restaurants -c <CSV file> [-D <date>][-d <day> -t <time>]
+Usage: find-open-restaurants -c <CSV file> [-D <date>][-d <day> -t <time>][-l]
 
 Options:
   --help      Show help                                                [boolean]
