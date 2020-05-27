@@ -1,0 +1,19 @@
+{
+  "name": "intern-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulrahman Y. idlbi",
+  "license": "ISC",
+  "bin": {
+    "find-open-restaurants": "./bin/cli.js"
+  }
+}
